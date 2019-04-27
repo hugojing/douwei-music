@@ -1,6 +1,4 @@
 module.exports = {
-  base: '/douwei-music/',
-
   locales: {
     '/': {
       lang: 'en-US',
