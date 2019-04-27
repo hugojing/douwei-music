@@ -1,0 +1,14 @@
+{
+  "name": "douwei-music",
+  "version": "0.0.1",
+  "repository": "https://github.com/hugojing/douwei-music",
+  "author": "hugojing",
+  "license": "MIT",
+  "scripts": {
+    "build": "vuepress build docs",
+    "dev": "vuepress dev docs"
+  },
+  "dependencies": {
+    "vuepress": "^0.14.11"
+  }
+}
