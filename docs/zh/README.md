@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.webp
+heroImage: /logo.png
 actionText: 查看专辑列表
 actionLink: /albums/
 features:

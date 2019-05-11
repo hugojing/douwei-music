@@ -32,5 +32,7 @@ module.exports = {
         lastUpdated: '上次更新'
       }
     }
-  }
+  },
+
+  ga: 'UA-56930228-3'
 }

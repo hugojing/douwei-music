@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.webp
+heroImage: /logo.png
 actionText: View all albums
 actionLink: /albums/
 features:
