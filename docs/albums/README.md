@@ -4,13 +4,27 @@
 
 Black Panther (Dou Wei as a member)
 
+Band
+
 10 tracks
 
 1991
 
+## Rock Beijing
+
+Various Artists (includes Dou Wei)
+
+Various Artists
+
+10 tracks (1 track from Dou Wei)
+
+1993
+
 ## Black Dream
 
 Dou Wei
+
+Solo
 
 10 tracks
 
@@ -20,21 +34,47 @@ Dou Wei
 
 Dou Wei
 
+Solo
+
 11 tracks
 
 1995
+
+## Chinese Fire II
+
+Various Artists (includes Dou Wei)
+
+Various Artists
+
+10 tracks (1 track from Dou Wei)
+
+1996
 
 ## Mountain River
 
 Dou Wei
 
+Solo
+
 11 tracks
 
 1998
 
+## Light of Hope - The Ultimate Collection
+
+Dou Wei
+
+Compilations
+
+14 tracks
+
+1999
+
 ## Acousma (aka "Imagination")
 
 Dou Wei, E
+
+Band
 
 10 tracks
 
@@ -43,6 +83,8 @@ Dou Wei, E
 ## Rainy Murmur
 
 Dou Wei, E
+
+Band
 
 12 tracks
 

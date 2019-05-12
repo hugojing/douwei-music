@@ -26,6 +26,8 @@
       </div>
     </div>
 
+    <Comment/>
+
     <div class="page-nav" v-if="prev || next">
       <p class="inner">
         <span
@@ -62,10 +64,13 @@
 </template>
 
 <script>
+import Comment from './Comment.vue'
 import { resolvePage, normalize, outboundRE, endingSlashRE } from './util'
 
 export default {
   props: ['sidebarItems'],
+
+  components: { Comment },
 
   computed: {
     lastUpdated () {
