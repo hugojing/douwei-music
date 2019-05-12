@@ -1,6 +1,6 @@
 {
   "name": "douwei-music",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "https://github.com/hugojing/douwei-music",
   "author": "hugojing",
   "license": "MIT",
@@ -9,7 +9,9 @@
     "dev": "vuepress dev docs"
   },
   "dependencies": {
-    "vue-disqus": "^3.0.5",
-    "vuepress": "^0.14.11"
+    "@vuepress/plugin-google-analytics": "^1.0.0-alpha.0",
+    "@vuepress/theme-vue": "^1.0.0-alpha.44",
+    "vuepress": "^1.0.0-alpha.47",
+    "vuepress-plugin-disqus": "^0.1.1"
   }
 }
