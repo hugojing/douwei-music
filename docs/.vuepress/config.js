@@ -1,4 +1,6 @@
 module.exports = {
+  theme: '@vuepress/vue',
+
   locales: {
     '/': {
       lang: 'en-US',
@@ -34,5 +36,10 @@ module.exports = {
     }
   },
 
-  ga: 'UA-56930228-3'
+  plugins: {
+    '@vuepress/google-analytics': {
+      ga: 'UA-56930228-3'
+    },
+    disqus: {}
+  }
 }
