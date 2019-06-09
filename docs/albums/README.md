@@ -1,6 +1,6 @@
-# Albums
+<h1>Albums</h1>
 
-## Heibao
+[<h2>Heibao</h2>](heibao)
 
 Black Panther (Dou Wei as a member)
 
@@ -10,7 +10,7 @@ Band
 
 1991
 
-## Rock Beijing
+[<h2>Rock Beijing</h2>](rock-beijing)
 
 Various Artists (includes Dou Wei)
 
@@ -89,3 +89,5 @@ Band
 12 tracks
 
 2000
+
+## To be continued ...
