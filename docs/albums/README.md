@@ -10,21 +10,21 @@ Band
 
 1991
 
-[<h2>Rock Beijing</h2>](rock-beijing)
+[<h2>Great Chinese Rock</h2>](great-chinese-rock)
 
-Various Artists (includes Dou Wei)
+Various Artists (includes Dreaming, Dou Wei as a member of Dreaming)
 
-Various Artists
+Band
 
-10 tracks (1 track from Dou Wei)
+10 tracks (1 track from Dreaming)
 
 1993
 
 ## Black Dream
 
-Dou Wei
+Dou Wei, Dreaming
 
-Solo
+Band
 
 10 tracks
 
