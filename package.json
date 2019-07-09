@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@vuepress/plugin-google-analytics": "^1.0.0-alpha.0",
-    "@vuepress/theme-vue": "^1.0.0-alpha.44",
+    "@vuepress/theme-vue": "^1.0.2",
     "vuepress": "^1.0.0-alpha.47",
     "vuepress-plugin-disqus": "^0.1.1"
   }

@@ -941,7 +941,7 @@
     stylus-loader "^3.0.2"
     vuepress-plugin-container "^2.0.0"
 
-"@vuepress/theme-vue@^1.0.0-alpha.44":
+"@vuepress/theme-vue@^1.0.2":
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/@vuepress/theme-vue/-/theme-vue-1.0.2.tgz#a26518c361bf8c51e845c1e9017c8b50077f5a9f"
   integrity sha512-Fh43iQiw+KwGVv5WUvtNwYUTG6VaIzBUrFX2CdOGotRb6tVnPBn+4J8KkJKLME8TTElPeYEHAZfaFilxEYSg4w==

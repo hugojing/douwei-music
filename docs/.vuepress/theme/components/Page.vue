@@ -2,7 +2,7 @@
   <main class="page">
     <slot name="top"/>
 
-    <Content/>
+    <Content class="custom-content"/>
 
     <footer class="page-edit">
       <div
@@ -57,7 +57,7 @@
       </p>
     </div>
 
-    <Comment/>
+    <Comment class="custom-content"/>
 
     <slot name="bottom"/>
   </main>
@@ -200,6 +200,12 @@ function flatten (items, res) {
 .page
   padding-bottom 2rem
   display block
+
+.custom-content
+  max-width 740px
+  margin-left auto
+  margin-right auto
+  padding 5rem 1rem 0
 
 .page-edit
   @extend $wrapper
