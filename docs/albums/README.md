@@ -1,6 +1,6 @@
-<h1>Albums</h1>
+# Albums
 
-[<h2>Heibao</h2>](heibao)
+## [Heibao](heibao)
 
 Black Panther (Dou Wei as a member)
 
@@ -10,9 +10,7 @@ Band
 
 1991
 
-[<h2>Great Chinese Rock</h2>](great-chinese-rock)
-
-<Badge text="recommended"/>
+## [Great Chinese Rock](great-chinese-rock)
 
 Various Artists (includes Dreaming, Dou Wei as a member of Dreaming)
 
@@ -22,7 +20,7 @@ Band
 
 1993
 
-[<h2>Black Dream</h2>](black-dream)
+## [Black Dream](black-dream)
 
 <Badge text="recommended"/>
 
@@ -34,7 +32,7 @@ Band
 
 1994
 
-[<h2>Sunny Days</h2>](sunny-days)
+## [Sunny Days](sunny-days)
 
 <Badge text="recommended"/>
 
@@ -46,9 +44,7 @@ Solo
 
 1995
 
-[<h2>Chinese Fire II</h2>](chinese-fire-2)
-
-<Badge text="recommended"/>
+## [Chinese Fire II](chinese-fire-2)
 
 Various Artists (includes Dou Wei)
 
@@ -58,7 +54,7 @@ Various Artists
 
 1996
 
-[<h2>Mountain River</h2>](mountain-river)
+## [Mountain River](mountain-river)
 
 <Badge text="recommended"/>
 

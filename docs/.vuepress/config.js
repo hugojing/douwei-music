@@ -11,6 +11,11 @@ module.exports = {
       lang: 'zh-CN',
       title: '窦唯音乐',
       description: '一位自省的中国音乐人的音乐世界'
+    },
+    '/jp/': {
+      lang: 'ja-JP',
+      title: '竇唯音楽',
+      description: 'The world of a self-reflective Chinese musician'
     }
   },
 
@@ -32,6 +37,12 @@ module.exports = {
         label: '中文',
         editLinkText: '在 GitHub 上编辑此页',
         lastUpdated: '上次更新'
+      },
+      '/jp/': {
+        selectText: '日本語',
+        label: '日本語',
+        editLinkText: 'GitHubでこのページを編集',
+        lastUpdated: '最終更新'
       }
     }
   },
