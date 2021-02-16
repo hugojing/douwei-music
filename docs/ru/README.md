@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.png
 actionText: View all albums
-actionLink: /jp/albums/
+actionLink: /ru/albums/
 features:
 - title: Multi-languages
   details: Help you understand his music.

@@ -16,6 +16,11 @@ module.exports = {
       lang: 'ja-JP',
       title: '竇唯音楽',
       description: 'The world of a self-reflective Chinese musician'
+    },
+    '/ru/': {
+      lang: 'ru-RU',
+      title: 'Музыка Доу Вэй',
+      description: 'The world of a self-reflective Chinese musician'
     }
   },
 
@@ -43,6 +48,10 @@ module.exports = {
         label: '日本語',
         editLinkText: 'GitHubでこのページを編集',
         lastUpdated: '最終更新'
+      },
+      '/ru/': {
+        selectText: 'русский',
+        label: 'русский'
       }
     }
   },

@@ -1,58 +1,50 @@
 # Albums
 
-## [Heibao](heibao)
+## [Ji Ai Ling: Part 1](ji-ai-ling-part-1)
 
-Black Panther (Dou Wei as a member)
+<Badge text="recommended"/>
+
+Dou Wei / Chaojian
+
+Band
+
+8 tracks
+
+2019
+
+## Rainy Murmur
+
+<Badge text="recommended"/>
+
+Dou Wei / E
+
+Band
+
+12 tracks
+
+2000
+
+## Acousma (aka "Imagination")
+
+<Badge text="recommended"/>
+
+Dou Wei / E
 
 Band
 
 10 tracks
 
-1991
+1999
 
-## [Great Chinese Rock](great-chinese-rock)
-
-Various Artists (includes Dreaming, Dou Wei as a member of Dreaming)
-
-Band
-
-10 tracks (1 track from Dreaming)
-
-1993
-
-## [Black Dream](black-dream)
-
-<Badge text="recommended"/>
-
-Dou Wei, Dreaming
-
-Band
-
-10 tracks
-
-1994
-
-## [Sunny Days](sunny-days)
-
-<Badge text="recommended"/>
+## Light of Hope - The Ultimate Collection
 
 Dou Wei
 
-Solo
+Compilations
 
-11 tracks
+14 tracks
 
-1995
-
-## [Chinese Fire II](chinese-fire-2)
-
-Various Artists (includes Dou Wei)
-
-Various Artists
-
-10 tracks (1 track from Dou Wei)
-
-1996
+1999
 
 ## [Mountain River](mountain-river)
 
@@ -66,38 +58,56 @@ Solo
 
 1998
 
-## Light of Hope - The Ultimate Collection
+## [Chinese Fire II](chinese-fire-2)
 
-Dou Wei
+Various Artists (includes Dou Wei)
 
-Compilations
+Various Artists
 
-14 tracks
+10 tracks (1 track from Dou Wei)
 
-1999
+1996
 
-## Acousma (aka "Imagination")
+## [Sunny Days](sunny-days)
 
 <Badge text="recommended"/>
 
-Dou Wei, E
+Dou Wei
+
+Solo
+
+11 tracks
+
+1995
+
+## [Black Dream](black-dream)
+
+<Badge text="recommended"/>
+
+Dou Wei / Dreaming
 
 Band
 
 10 tracks
 
-1999
+1994
 
-## Rainy Murmur
+## [Great Chinese Rock](great-chinese-rock)
 
-<Badge text="recommended"/>
-
-Dou Wei, E
+Various Artists (includes Dreaming, Dou Wei as a member of Dreaming)
 
 Band
 
-12 tracks
+10 tracks (1 track from Dreaming)
 
-2000
+1993
 
-## To be continued ...
+## [Heibao](heibao)
+
+Black Panther (Dou Wei as a member)
+
+Band
+
+10 tracks
+
+1991
