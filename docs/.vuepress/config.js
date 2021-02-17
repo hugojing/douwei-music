@@ -19,7 +19,7 @@ module.exports = {
     },
     '/ru/': {
       lang: 'ru-RU',
-      title: 'Музыка Доу Вэй',
+      title: 'песни | Доу Вэй',
       description: 'The world of a self-reflective Chinese musician'
     }
   },
